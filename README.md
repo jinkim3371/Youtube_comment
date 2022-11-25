@@ -1,4 +1,4 @@
-# Youtube 댓글 수집
+# Youtube 댓글 수집 Colab Notebook
 
 Colab notebook for Youtube comments crawler
 
